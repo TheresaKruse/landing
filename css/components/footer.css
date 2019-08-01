@@ -1,0 +1,14 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  display:flex;
+}
+
+.links {
+  /*display:flex;*/
+}
+
+.link {
+  font-size: 40px;
+  color: #79e9de;
+}
